@@ -1,0 +1,1 @@
+export const InjectState = 'star-port-injection'

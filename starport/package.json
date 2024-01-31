@@ -1,0 +1,12 @@
+{
+  "name": "starport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
